@@ -64,6 +64,7 @@
             // 
             this.txtContra.Location = new System.Drawing.Point(120, 84);
             this.txtContra.Name = "txtContra";
+            this.txtContra.PasswordChar = '*';
             this.txtContra.Size = new System.Drawing.Size(94, 20);
             this.txtContra.TabIndex = 3;
             // 
